@@ -1,7 +1,5 @@
 # BioTrillion Coding Challenge
 
-# Adrien BOURGAIN
-
 ## Setup
 
 - To install all the required libraries you can run the following command in the terminal: `pip install -r requirements.txt`
